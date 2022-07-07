@@ -34,7 +34,6 @@ export class AppComponent {
     responsive: false
   };
   public lineChartLegend = true;
-  public lineChartPlugins = [];
 
   constructor() {
   }
